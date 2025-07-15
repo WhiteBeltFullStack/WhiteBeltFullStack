@@ -14,7 +14,7 @@
 ...
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexkatsman&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhiteBeltFullStack&show_icons=true&theme=radical)
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-katsman-166b09319)
